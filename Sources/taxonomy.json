@@ -1,0 +1,1387 @@
+[
+  {
+    "kind": "音效",
+    "dimension": "类别",
+    "label": "转场",
+    "keywords": [
+      "whoosh",
+      "transition",
+      "transitions",
+      "sweeper",
+      "wipe",
+      "flyby",
+      "转场",
+      "飞过",
+      "飞跃",
+      "扫场",
+      "掠过"
+    ]
+  },
+  {
+    "kind": "音效",
+    "dimension": "类别",
+    "label": "强调与冲击",
+    "keywords": [
+      "hit",
+      "hits",
+      "impact",
+      "impacts",
+      "boom",
+      "boomer",
+      "boomers",
+      "clash",
+      "重击",
+      "冲击",
+      "撞击",
+      "冲突",
+      "低音"
+    ]
+  },
+  {
+    "kind": "音效",
+    "dimension": "类别",
+    "label": "人物与动作",
+    "keywords": [
+      "humans",
+      "human",
+      "footstep",
+      "footsteps",
+      "combat",
+      "gore",
+      "人声",
+      "脚步",
+      "搏击",
+      "拳",
+      "呼吸"
+    ]
+  },
+  {
+    "kind": "音效",
+    "dimension": "类别",
+    "label": "物件与生活",
+    "keywords": [
+      "household",
+      "camera",
+      "typewriter",
+      "clock",
+      "cloth",
+      "衣服",
+      "布料",
+      "生活",
+      "家庭",
+      "快门",
+      "时钟",
+      "打字"
+    ]
+  },
+  {
+    "kind": "音效",
+    "dimension": "类别",
+    "label": "自然与动物",
+    "keywords": [
+      "weather",
+      "jungle",
+      "rain",
+      "wind",
+      "water",
+      "bird",
+      "birds",
+      "animal",
+      "animals",
+      "天气",
+      "雨",
+      "风声",
+      "水声",
+      "动物",
+      "鸟",
+      "森林"
+    ]
+  },
+  {
+    "kind": "音效",
+    "dimension": "类别",
+    "label": "环境与空间",
+    "keywords": [
+      "ambience",
+      "ambient",
+      "surroundings",
+      "surround",
+      "crowd",
+      "人群",
+      "环境",
+      "环绕"
+    ]
+  },
+  {
+    "kind": "音效",
+    "dimension": "类别",
+    "label": "交通与机械",
+    "keywords": [
+      "vehicles",
+      "vehicle",
+      "machines",
+      "machine",
+      "engine",
+      "car",
+      "train",
+      "飞机",
+      "飞船",
+      "车辆",
+      "交通",
+      "机器",
+      "齿轮",
+      "引擎"
+    ]
+  },
+  {
+    "kind": "音效",
+    "dimension": "类别",
+    "label": "电子与界面",
+    "keywords": [
+      "technology",
+      "future",
+      "sci fi",
+      "科技",
+      "电子",
+      "未来",
+      "故障",
+      "提示"
+    ]
+  },
+  {
+    "kind": "音效",
+    "dimension": "类别",
+    "label": "影视与悬疑",
+    "keywords": [
+      "cinematic",
+      "trailer",
+      "scary",
+      "suspense",
+      "horror",
+      "jumpscare",
+      "jumpscares",
+      "drones",
+      "atmospheres",
+      "space",
+      "电影",
+      "悬疑",
+      "恐怖",
+      "氛围",
+      "太空",
+      "深空"
+    ]
+  },
+  {
+    "kind": "音效",
+    "dimension": "类别",
+    "label": "节奏与乐器",
+    "keywords": [
+      "rhythm",
+      "cymbals",
+      "horn",
+      "drum",
+      "节奏",
+      "鼓点",
+      "铜管"
+    ]
+  },
+  {
+    "kind": "音效",
+    "dimension": "类别",
+    "label": "趣味与卡通",
+    "keywords": [
+      "cartoon",
+      "funny",
+      "comedy",
+      "boing",
+      "卡通",
+      "搞笑",
+      "弹跳"
+    ]
+  },
+  {
+    "kind": "音效",
+    "dimension": "声音",
+    "label": "掠过／呼啸",
+    "keywords": [
+      "whoosh",
+      "whooshes",
+      "flyby",
+      "swoosh",
+      "whip",
+      "呼啸",
+      "划过",
+      "掠过",
+      "飞过"
+    ]
+  },
+  {
+    "kind": "音效",
+    "dimension": "声音",
+    "label": "上升／吸入",
+    "keywords": [
+      "riser",
+      "risers",
+      "rise",
+      "absorb",
+      "上升",
+      "吸收",
+      "吸入"
+    ]
+  },
+  {
+    "kind": "音效",
+    "dimension": "声音",
+    "label": "下降",
+    "keywords": [
+      "fall",
+      "down",
+      "下降",
+      "下落"
+    ]
+  },
+  {
+    "kind": "音效",
+    "dimension": "声音",
+    "label": "重击",
+    "keywords": [
+      "hit",
+      "hits",
+      "impact",
+      "impacts",
+      "重击",
+      "冲击"
+    ]
+  },
+  {
+    "kind": "音效",
+    "dimension": "声音",
+    "label": "低频轰鸣",
+    "keywords": [
+      "boom",
+      "boomer",
+      "boomers",
+      "braaaam",
+      "rumble",
+      "轰鸣",
+      "低频"
+    ]
+  },
+  {
+    "kind": "音效",
+    "dimension": "声音",
+    "label": "脚步",
+    "keywords": [
+      "footstep",
+      "footsteps",
+      "walking",
+      "脚步",
+      "走路"
+    ]
+  },
+  {
+    "kind": "音效",
+    "dimension": "声音",
+    "label": "搏击",
+    "keywords": [
+      "combat",
+      "punch",
+      "kick",
+      "fight",
+      "搏击",
+      "拳",
+      "脚踢"
+    ]
+  },
+  {
+    "kind": "音效",
+    "dimension": "声音",
+    "label": "呼吸",
+    "keywords": [
+      "breath",
+      "breathing",
+      "呼吸",
+      "喘气"
+    ]
+  },
+  {
+    "kind": "音效",
+    "dimension": "声音",
+    "label": "拍手",
+    "keywords": [
+      "clap",
+      "clapping",
+      "拍手",
+      "鼓掌"
+    ]
+  },
+  {
+    "kind": "音效",
+    "dimension": "声音",
+    "label": "布料摩擦",
+    "keywords": [
+      "cloth",
+      "fabric",
+      "clothing",
+      "布料",
+      "衣服",
+      "衣物"
+    ]
+  },
+  {
+    "kind": "音效",
+    "dimension": "声音",
+    "label": "拉链",
+    "keywords": [
+      "zipper",
+      "zip",
+      "拉链"
+    ]
+  },
+  {
+    "kind": "音效",
+    "dimension": "声音",
+    "label": "开关门",
+    "keywords": [
+      "door",
+      "门"
+    ]
+  },
+  {
+    "kind": "音效",
+    "dimension": "声音",
+    "label": "快门",
+    "keywords": [
+      "camera",
+      "shutter",
+      "快门",
+      "相机"
+    ]
+  },
+  {
+    "kind": "音效",
+    "dimension": "声音",
+    "label": "打字／键盘",
+    "keywords": [
+      "typewriter",
+      "keyboard",
+      "typing",
+      "打字",
+      "键盘"
+    ]
+  },
+  {
+    "kind": "音效",
+    "dimension": "声音",
+    "label": "时钟／倒计时",
+    "keywords": [
+      "clock",
+      "tick",
+      "ticking",
+      "时钟",
+      "倒计时"
+    ]
+  },
+  {
+    "kind": "音效",
+    "dimension": "声音",
+    "label": "玻璃破碎",
+    "keywords": [
+      "glass",
+      "shatter",
+      "玻璃",
+      "碎裂"
+    ]
+  },
+  {
+    "kind": "音效",
+    "dimension": "声音",
+    "label": "人群",
+    "keywords": [
+      "crowd",
+      "人群"
+    ]
+  },
+  {
+    "kind": "音效",
+    "dimension": "声音",
+    "label": "风声",
+    "keywords": [
+      "wind",
+      "windy",
+      "风声"
+    ]
+  },
+  {
+    "kind": "音效",
+    "dimension": "声音",
+    "label": "雨声",
+    "keywords": [
+      "rain",
+      "rainfall",
+      "雨"
+    ]
+  },
+  {
+    "kind": "音效",
+    "dimension": "声音",
+    "label": "雷声",
+    "keywords": [
+      "thunder",
+      "雷"
+    ]
+  },
+  {
+    "kind": "音效",
+    "dimension": "声音",
+    "label": "流水／海浪",
+    "keywords": [
+      "water",
+      "stream",
+      "ocean",
+      "wave",
+      "waves",
+      "水流",
+      "海浪",
+      "流水"
+    ]
+  },
+  {
+    "kind": "音效",
+    "dimension": "声音",
+    "label": "鸟鸣",
+    "keywords": [
+      "bird",
+      "birds",
+      "鸟"
+    ]
+  },
+  {
+    "kind": "音效",
+    "dimension": "声音",
+    "label": "火焰",
+    "keywords": [
+      "fire",
+      "flame",
+      "火焰",
+      "燃烧"
+    ]
+  },
+  {
+    "kind": "音效",
+    "dimension": "声音",
+    "label": "汽车",
+    "keywords": [
+      "car",
+      "cars",
+      "汽车"
+    ]
+  },
+  {
+    "kind": "音效",
+    "dimension": "声音",
+    "label": "火车",
+    "keywords": [
+      "train",
+      "火车"
+    ]
+  },
+  {
+    "kind": "音效",
+    "dimension": "声音",
+    "label": "飞机",
+    "keywords": [
+      "airplane",
+      "aircraft",
+      "jet",
+      "飞机"
+    ]
+  },
+  {
+    "kind": "音效",
+    "dimension": "声音",
+    "label": "引擎",
+    "keywords": [
+      "engine",
+      "motor",
+      "引擎",
+      "发动机"
+    ]
+  },
+  {
+    "kind": "音效",
+    "dimension": "声音",
+    "label": "机械运转",
+    "keywords": [
+      "machine",
+      "machines",
+      "gear",
+      "gears",
+      "机器",
+      "齿轮"
+    ]
+  },
+  {
+    "kind": "音效",
+    "dimension": "声音",
+    "label": "点击／通知",
+    "keywords": [
+      "click",
+      "notification",
+      "beep",
+      "点击",
+      "提示",
+      "通知"
+    ]
+  },
+  {
+    "kind": "音效",
+    "dimension": "声音",
+    "label": "故障／电流",
+    "keywords": [
+      "glitch",
+      "electric",
+      "static",
+      "故障",
+      "电流"
+    ]
+  },
+  {
+    "kind": "音效",
+    "dimension": "声音",
+    "label": "心跳",
+    "keywords": [
+      "heartbeat",
+      "心跳"
+    ]
+  },
+  {
+    "kind": "音效",
+    "dimension": "声音",
+    "label": "持续低鸣",
+    "keywords": [
+      "drone",
+      "drones",
+      "hum",
+      "低鸣"
+    ]
+  },
+  {
+    "kind": "音效",
+    "dimension": "声音",
+    "label": "鼓点",
+    "keywords": [
+      "drum",
+      "drums",
+      "rhythm",
+      "鼓点",
+      "节奏"
+    ]
+  },
+  {
+    "kind": "音效",
+    "dimension": "声音",
+    "label": "铜管／号角",
+    "keywords": [
+      "horn",
+      "brass",
+      "号角",
+      "铜管"
+    ]
+  },
+  {
+    "kind": "音效",
+    "dimension": "声音",
+    "label": "镲片",
+    "keywords": [
+      "cymbal",
+      "cymbals",
+      "镲"
+    ]
+  },
+  {
+    "kind": "音效",
+    "dimension": "材质",
+    "label": "布料",
+    "keywords": [
+      "cloth",
+      "fabric",
+      "布料"
+    ]
+  },
+  {
+    "kind": "音效",
+    "dimension": "材质",
+    "label": "皮革",
+    "keywords": [
+      "leather",
+      "皮革"
+    ]
+  },
+  {
+    "kind": "音效",
+    "dimension": "材质",
+    "label": "纸张",
+    "keywords": [
+      "paper",
+      "纸"
+    ]
+  },
+  {
+    "kind": "音效",
+    "dimension": "材质",
+    "label": "塑料",
+    "keywords": [
+      "plastic",
+      "塑料"
+    ]
+  },
+  {
+    "kind": "音效",
+    "dimension": "材质",
+    "label": "木头",
+    "keywords": [
+      "wood",
+      "wooden",
+      "木"
+    ]
+  },
+  {
+    "kind": "音效",
+    "dimension": "材质",
+    "label": "金属",
+    "keywords": [
+      "metal",
+      "metallic",
+      "金属"
+    ]
+  },
+  {
+    "kind": "音效",
+    "dimension": "材质",
+    "label": "玻璃",
+    "keywords": [
+      "glass",
+      "玻璃"
+    ]
+  },
+  {
+    "kind": "音效",
+    "dimension": "材质",
+    "label": "水／液体",
+    "keywords": [
+      "water",
+      "liquid",
+      "水",
+      "液体"
+    ]
+  },
+  {
+    "kind": "音效",
+    "dimension": "空间",
+    "label": "室内",
+    "keywords": [
+      "indoor",
+      "interior",
+      "room",
+      "室内"
+    ]
+  },
+  {
+    "kind": "音效",
+    "dimension": "空间",
+    "label": "室外",
+    "keywords": [
+      "outdoor",
+      "exterior",
+      "室外"
+    ]
+  },
+  {
+    "kind": "音效",
+    "dimension": "空间",
+    "label": "近距离",
+    "keywords": [
+      "close",
+      "near",
+      "近距离"
+    ]
+  },
+  {
+    "kind": "音效",
+    "dimension": "空间",
+    "label": "远距离",
+    "keywords": [
+      "distant",
+      "far",
+      "远处"
+    ]
+  },
+  {
+    "kind": "音效",
+    "dimension": "空间",
+    "label": "混响",
+    "keywords": [
+      "reverb",
+      "echo",
+      "混响",
+      "回声"
+    ]
+  },
+  {
+    "kind": "音效",
+    "dimension": "空间",
+    "label": "干声",
+    "keywords": [
+      "dry",
+      "干声"
+    ]
+  },
+  {
+    "kind": "音效",
+    "dimension": "时间形态",
+    "label": "循环",
+    "keywords": [
+      "loop",
+      "looping",
+      "循环"
+    ]
+  },
+  {
+    "kind": "音效",
+    "dimension": "时间形态",
+    "label": "短促",
+    "keywords": [
+      "short",
+      "短促"
+    ]
+  },
+  {
+    "kind": "音效",
+    "dimension": "时间形态",
+    "label": "长尾",
+    "keywords": [
+      "tail",
+      "long",
+      "长尾"
+    ]
+  },
+  {
+    "kind": "音效",
+    "dimension": "时间形态",
+    "label": "渐强",
+    "keywords": [
+      "build",
+      "riser",
+      "risers",
+      "渐强"
+    ]
+  },
+  {
+    "kind": "音效",
+    "dimension": "时间形态",
+    "label": "反向",
+    "keywords": [
+      "reverse",
+      "reversed",
+      "反向"
+    ]
+  },
+  {
+    "kind": "音乐",
+    "dimension": "场景",
+    "label": "穿搭／美妆",
+    "keywords": [
+      "穿搭",
+      "美妆",
+      "fashion"
+    ]
+  },
+  {
+    "kind": "音乐",
+    "dimension": "场景",
+    "label": "旅行／旅拍",
+    "keywords": [
+      "旅行",
+      "旅拍",
+      "travel"
+    ]
+  },
+  {
+    "kind": "音乐",
+    "dimension": "场景",
+    "label": "航拍",
+    "keywords": [
+      "航拍",
+      "aerial"
+    ]
+  },
+  {
+    "kind": "音乐",
+    "dimension": "场景",
+    "label": "延时摄影",
+    "keywords": [
+      "延时",
+      "timelapse"
+    ]
+  },
+  {
+    "kind": "音乐",
+    "dimension": "场景",
+    "label": "婚礼",
+    "keywords": [
+      "婚礼",
+      "wedding"
+    ]
+  },
+  {
+    "kind": "音乐",
+    "dimension": "场景",
+    "label": "日常 Vlog",
+    "keywords": [
+      "vlog"
+    ]
+  },
+  {
+    "kind": "音乐",
+    "dimension": "场景",
+    "label": "采访／口播",
+    "keywords": [
+      "采访",
+      "口播",
+      "interview"
+    ]
+  },
+  {
+    "kind": "音乐",
+    "dimension": "场景",
+    "label": "宣传／颁奖",
+    "keywords": [
+      "宣传",
+      "年会",
+      "颁奖"
+    ]
+  },
+  {
+    "kind": "音乐",
+    "dimension": "场景",
+    "label": "学习／思考",
+    "keywords": [
+      "学习",
+      "思考",
+      "刷题"
+    ]
+  },
+  {
+    "kind": "音乐",
+    "dimension": "场景",
+    "label": "影视剪辑",
+    "keywords": [
+      "电影",
+      "影视",
+      "cinematic"
+    ]
+  },
+  {
+    "kind": "音乐",
+    "dimension": "用途",
+    "label": "卡点",
+    "keywords": [
+      "卡点",
+      "踩点",
+      "节奏类"
+    ]
+  },
+  {
+    "kind": "音乐",
+    "dimension": "用途",
+    "label": "铺底",
+    "keywords": [
+      "背景音乐",
+      "伴奏",
+      "ambient"
+    ]
+  },
+  {
+    "kind": "音乐",
+    "dimension": "用途",
+    "label": "开场",
+    "keywords": [
+      "intro",
+      "opener",
+      "开场"
+    ]
+  },
+  {
+    "kind": "音乐",
+    "dimension": "用途",
+    "label": "收尾",
+    "keywords": [
+      "outro",
+      "ending",
+      "收尾"
+    ]
+  },
+  {
+    "kind": "音乐",
+    "dimension": "用途",
+    "label": "高潮",
+    "keywords": [
+      "epic",
+      "史诗",
+      "燃点",
+      "震撼"
+    ]
+  },
+  {
+    "kind": "音乐",
+    "dimension": "用途",
+    "label": "快剪",
+    "keywords": [
+      "快剪"
+    ]
+  },
+  {
+    "kind": "音乐",
+    "dimension": "风格",
+    "label": "爵士",
+    "keywords": [
+      "jazz",
+      "jazzy",
+      "爵士"
+    ]
+  },
+  {
+    "kind": "音乐",
+    "dimension": "风格",
+    "label": "放克",
+    "keywords": [
+      "funk",
+      "funky",
+      "放克"
+    ]
+  },
+  {
+    "kind": "音乐",
+    "dimension": "风格",
+    "label": "嘻哈",
+    "keywords": [
+      "hip hop",
+      "hiphop",
+      "嘻哈"
+    ]
+  },
+  {
+    "kind": "音乐",
+    "dimension": "风格",
+    "label": "电子",
+    "keywords": [
+      "electronic",
+      "edm",
+      "电子"
+    ]
+  },
+  {
+    "kind": "音乐",
+    "dimension": "风格",
+    "label": "民谣",
+    "keywords": [
+      "folk",
+      "民谣"
+    ]
+  },
+  {
+    "kind": "音乐",
+    "dimension": "风格",
+    "label": "古典",
+    "keywords": [
+      "classical",
+      "古典"
+    ]
+  },
+  {
+    "kind": "音乐",
+    "dimension": "风格",
+    "label": "摇滚",
+    "keywords": [
+      "rock",
+      "摇滚"
+    ]
+  },
+  {
+    "kind": "音乐",
+    "dimension": "风格",
+    "label": "氛围",
+    "keywords": [
+      "ambient",
+      "氛围"
+    ]
+  },
+  {
+    "kind": "音乐",
+    "dimension": "风格",
+    "label": "史诗／影视",
+    "keywords": [
+      "epic",
+      "cinematic",
+      "史诗"
+    ]
+  },
+  {
+    "kind": "音乐",
+    "dimension": "风格",
+    "label": "Lo-fi",
+    "keywords": [
+      "lo fi",
+      "lofi"
+    ]
+  },
+  {
+    "kind": "音乐",
+    "dimension": "风格",
+    "label": "流行",
+    "keywords": [
+      "pop",
+      "流行"
+    ]
+  },
+  {
+    "kind": "音乐",
+    "dimension": "乐器",
+    "label": "钢琴",
+    "keywords": [
+      "piano",
+      "钢琴"
+    ]
+  },
+  {
+    "kind": "音乐",
+    "dimension": "乐器",
+    "label": "木吉他",
+    "keywords": [
+      "acoustic guitar",
+      "木吉他"
+    ]
+  },
+  {
+    "kind": "音乐",
+    "dimension": "乐器",
+    "label": "电吉他",
+    "keywords": [
+      "electric guitar",
+      "电吉他"
+    ]
+  },
+  {
+    "kind": "音乐",
+    "dimension": "乐器",
+    "label": "弦乐",
+    "keywords": [
+      "strings",
+      "violin",
+      "弦乐",
+      "小提琴"
+    ]
+  },
+  {
+    "kind": "音乐",
+    "dimension": "乐器",
+    "label": "铜管",
+    "keywords": [
+      "brass",
+      "trumpet",
+      "铜管",
+      "小号"
+    ]
+  },
+  {
+    "kind": "音乐",
+    "dimension": "乐器",
+    "label": "合成器",
+    "keywords": [
+      "synth",
+      "synthesizer",
+      "合成器"
+    ]
+  },
+  {
+    "kind": "音乐",
+    "dimension": "乐器",
+    "label": "打击乐",
+    "keywords": [
+      "percussion",
+      "drums",
+      "打击乐"
+    ]
+  },
+  {
+    "kind": "音乐",
+    "dimension": "人声",
+    "label": "纯音乐",
+    "keywords": [
+      "instrumental",
+      "纯音乐",
+      "无人声"
+    ]
+  },
+  {
+    "kind": "音乐",
+    "dimension": "人声",
+    "label": "哼唱",
+    "keywords": [
+      "humming",
+      "哼唱"
+    ]
+  },
+  {
+    "kind": "",
+    "dimension": "情绪",
+    "label": "松弛",
+    "keywords": [
+      "chill",
+      "relax",
+      "relaxing",
+      "松弛",
+      "放松"
+    ]
+  },
+  {
+    "kind": "",
+    "dimension": "情绪",
+    "label": "温柔",
+    "keywords": [
+      "gentle",
+      "温柔"
+    ]
+  },
+  {
+    "kind": "",
+    "dimension": "情绪",
+    "label": "清新",
+    "keywords": [
+      "fresh",
+      "清新"
+    ]
+  },
+  {
+    "kind": "",
+    "dimension": "情绪",
+    "label": "俏皮／欢快",
+    "keywords": [
+      "happy",
+      "playful",
+      "欢快",
+      "俏皮"
+    ]
+  },
+  {
+    "kind": "",
+    "dimension": "情绪",
+    "label": "甜蜜",
+    "keywords": [
+      "sweet",
+      "romantic",
+      "甜蜜",
+      "浪漫"
+    ]
+  },
+  {
+    "kind": "",
+    "dimension": "情绪",
+    "label": "热血／振奋",
+    "keywords": [
+      "epic",
+      "inspiring",
+      "燃点",
+      "热血",
+      "励志"
+    ]
+  },
+  {
+    "kind": "",
+    "dimension": "情绪",
+    "label": "忧伤",
+    "keywords": [
+      "sad",
+      "melancholy",
+      "忧伤",
+      "悲伤"
+    ]
+  },
+  {
+    "kind": "",
+    "dimension": "情绪",
+    "label": "紧张／悬疑",
+    "keywords": [
+      "suspense",
+      "tense",
+      "tension",
+      "悬疑",
+      "紧张"
+    ]
+  },
+  {
+    "kind": "",
+    "dimension": "情绪",
+    "label": "恐怖",
+    "keywords": [
+      "horror",
+      "scary",
+      "jumpscares",
+      "恐怖",
+      "惊吓"
+    ]
+  },
+  {
+    "kind": "",
+    "dimension": "听感",
+    "label": "柔和",
+    "keywords": [
+      "soft",
+      "柔和"
+    ]
+  },
+  {
+    "kind": "",
+    "dimension": "听感",
+    "label": "厚重",
+    "keywords": [
+      "heavy",
+      "厚重"
+    ]
+  },
+  {
+    "kind": "",
+    "dimension": "听感",
+    "label": "轻盈",
+    "keywords": [
+      "light",
+      "轻盈"
+    ]
+  },
+  {
+    "kind": "",
+    "dimension": "听感",
+    "label": "尖锐",
+    "keywords": [
+      "sharp",
+      "尖锐"
+    ]
+  },
+  {
+    "kind": "",
+    "dimension": "听感",
+    "label": "低沉",
+    "keywords": [
+      "low",
+      "deep",
+      "低沉"
+    ]
+  },
+  {
+    "kind": "",
+    "dimension": "听感",
+    "label": "清脆",
+    "keywords": [
+      "crisp",
+      "清脆"
+    ]
+  },
+  {
+    "kind": "",
+    "dimension": "听感",
+    "label": "失真",
+    "keywords": [
+      "distorted",
+      "distortion",
+      "失真"
+    ]
+  },
+  {
+    "kind": "音乐",
+    "dimension": "用途",
+    "label": "节奏／卡点",
+    "keywords": [
+      "节奏",
+      "踩点",
+      "卡点"
+    ]
+  },
+  {
+    "kind": "音乐",
+    "dimension": "场景",
+    "label": "企业宣传",
+    "keywords": [
+      "企业宣传"
+    ]
+  },
+  {
+    "kind": "音乐",
+    "dimension": "场景",
+    "label": "游记",
+    "keywords": [
+      "游记"
+    ]
+  },
+  {
+    "kind": "音乐",
+    "dimension": "场景",
+    "label": "升格／慢动作",
+    "keywords": [
+      "升格",
+      "慢动作"
+    ]
+  },
+  {
+    "kind": "音乐",
+    "dimension": "场景",
+    "label": "星空延时",
+    "keywords": [
+      "星空",
+      "timelapser"
+    ]
+  },
+  {
+    "kind": "音乐",
+    "dimension": "风格",
+    "label": "高级感",
+    "keywords": [
+      "高级感",
+      "高逼格"
+    ]
+  },
+  {
+    "kind": "音乐",
+    "dimension": "风格",
+    "label": "文艺",
+    "keywords": [
+      "文艺"
+    ]
+  },
+  {
+    "kind": "音乐",
+    "dimension": "听感",
+    "label": "震撼／大气",
+    "keywords": [
+      "震撼",
+      "大气",
+      "磅礴"
+    ]
+  },
+  {
+    "kind": "音乐",
+    "dimension": "能量",
+    "label": "轻快律动",
+    "keywords": [
+      "轻high"
+    ]
+  },
+  {
+    "kind": "音乐",
+    "dimension": "节奏",
+    "label": "无节奏",
+    "keywords": [
+      "无节奏"
+    ]
+  }
+]

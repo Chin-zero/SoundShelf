@@ -1,0 +1,20 @@
+# User media and local state
+Data/
+Backups/
+升级开发备份/
+.learnings/
+*.app/
+*.fcpbundle/
+*.wav
+*.mp3
+*.aif
+*.aiff
+*.m4a
+*.mp4
+*.mov
+*.zip
+*.log
+.DS_Store
+._*
+.env
+.env.*
